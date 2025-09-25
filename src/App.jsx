@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import ScrollToTop from "./ScrollToTop";
-import Site from "./Site";
+import Site from "./site.jsx";
 import FinAndFur from "./pages/FinAndFur";
 import MKEBeaverProject from "./pages/MKEBeaverProject.jsx";
 import SuperiorBioConservancy from "./pages/SuperiorBioConservancy";
