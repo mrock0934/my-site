@@ -67,30 +67,30 @@ export default function Site() {
           <div>
             <h2 className="font-serif text-2xl font-bold md:text-3xl">About</h2>
 
-            <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              Early on, I was always intrigued by the way we see things. My dad had an old Canon A1 he picked up
-              in Hong Kong and an album in the basement that I must have flipped through a hundred times. That
-              is really where it started. While most of my peers were caught up in the noise of sports, I found
-              myself taking photos, creating, trying to make something that meant something.
+              <p className="mt-6 text-[18px] leading-8 text-neutral-800">
+              Early on, I was always intrigued by the way we see things. My dad had an old Canon A1 he
+              picked up in Hong Kong and an album in the basement that I must have flipped through a hundred
+              times. That is really where it started. While most of my peers were caught up in the noise of
+              sports, I found myself taking photos, creating, trying to make something that meant something.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              I have always followed this instinct to earn my keep through a creative eye, solving problems and
-              telling stories visually — making sense of things through mediums that take in complex information
-              and turn it into something digestible, something that paints a picture.
+              I have always followed this instinct to earn my keep through a creative eye, solving problems
+              and telling stories visually. Making sense of things through mediums that take in complex
+              information and turn it into something digestible, something that paints a picture.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
               Maps have taken that to another level. They let me tell a story not just through the lens of a
-              camera, but in space and time, putting those fleeting moments in context. And somewhere in all of
-              this, remote sensing emerged — a sort of poetic irony. A camera looking back at the Earth, blending
-              science and art, showing not just what we see, but what we could never see otherwise.
+              camera, but in space and time, putting those fleeting moments in context. And somewhere in all
+              of this, remote sensing emerged, a sort of poetic irony. A camera looking back at the Earth,
+              blending science and art, showing not just what we see, but what we could never see otherwise.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              I have been making maps and taking photos for too long as separate things. That is what I want to
-              do here — bring them together. I do not have a set plan for this, but I imagine it will evolve as
-              time goes on — the story behind my story of telling stories, right here.
+              I have been making maps and taking photos for too long as separate things. That is what I want
+              to do here, bring them together. I do not have a set plan for this, but I imagine it will evolve
+              as time goes on, the story behind my story of telling stories, right here.
             </p>
 
           </div>
