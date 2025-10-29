@@ -1,4 +1,4 @@
-// src/Site.jsx
+// src/site.jsx
 import { Link } from "react-router-dom";
 
 /* =======================
@@ -56,7 +56,6 @@ export default function Site() {
       {/* About */}
       <section id="about" className="scroll-mt-24 mx-auto max-w-7xl px-8 py-16 md:py-24">
         <div className="grid gap-8 md:grid-cols-[260px_minmax(0,1fr)] lg:grid-cols-[300px_minmax(0,1fr)] md:items-start">
-          {/* Photo */}
           <div className="mt-4 md:mt-6">
             <img
               src="/me.jpg"
@@ -65,34 +64,33 @@ export default function Site() {
             />
           </div>
 
-          {/* Text */}
           <div>
             <h2 className="font-serif text-2xl font-bold md:text-3xl">About</h2>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              Early on, I was always intrigued by the way we see things. My dad had an old Canon A1 he
-              picked up in Hong Kong and an album in the basement that I must have flipped through a hundred
-              times. That is really where it started. While most of my peers were caught up in the noise of
-              sports, I found myself taking photos, creating, trying to make something that meant something.
+              I am a geographer by trade with a love for exploring landscapes by foot, bike, and boat.
+              Sailing has taught me to pay close attention to the patterns of wind, water, and navigation;
+              long journeys on a bike have shown me the challenge and reward of moving through terrain at a
+              human pace. Alongside these adventures I have always been drawn to photos and the way they
+              reveal what a place or thing looks like at a specific moment in time. Photos provide the
+              temporal perspective; maps provide the spatial perspective. Together they complement each other and
+              tell a fuller story about people, places, and things.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              I have always followed this instinct to earn my keep through a creative eye, solving problems
-              and telling stories visually. Making sense of things through mediums that take in complex
-              information and turn it into something digestible, something that paints a picture.
+              Maps do more than guide us from one place to another. They tell the story of a place, revealing
+              its character and meaning in ways that spark both imagination and action. Much like a camera
+              captures a fleeting moment, satellites record snapshots of the Earth at a point in time. Maps
+              add the vital spatial context, and together with satellite imagery they create a richer and more
+              complete perspective.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              Maps have taken that to another level. They let me tell a story not just through the lens of a
-              camera, but in space and time, putting those fleeting moments in context. And somewhere in all
-              of this, remote sensing emerged, a sort of poetic irony. A camera looking back at the Earth,
-              blending science and art, showing not just what we see, but what we could never see otherwise.
-            </p>
-
-            <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              I have been making maps and taking photos for too long as separate things. That is what I want
-              to do here, bring them together. I do not have a set plan for this, but I imagine it will evolve
-              as time goes on, the story behind my story of telling stories, right here.
+              This pairing offers insights that go far beyond navigation or recreation. Over time, I have come
+              to see their power to illuminate issues that matter, providing knowledge we can act upon to drive
+              meaningful change. That is why I want to bring the combined power of mapping and remote sensing to
+              the world across recreation, storytelling, science, conservation, and more, because they hold the
+              ability to inform smarter choices and shape a better future for generations to come.
             </p>
           </div>
         </div>
@@ -123,34 +121,32 @@ export default function Site() {
                 <span className="font-medium block mb-1">
                   Orbital Sidekick — Lead Account Manager
                 </span>
-                Driving adoption and retention across my current accounts and managing a multimillion dollar
-                book of business spanning three distinct verticals. Lead Oil and Gas presales from feasibility
-                to close as the technical point of contact, own post sales for all commercial accounts,
-                created CS operations framework, and partner closely with product and marketing.
+                Driving adoption and retention across my current accounts and managing a multimillion-dollar
+                book of business spanning three distinct verticals. Lead Oil &amp; Gas presales from
+                feasibility to close as the technical POC; own post-sales for all commercial accounts;
+                created CS ops framework; partner closely with product &amp; marketing.
               </li>
               <li>
                 <span className="font-medium block mb-1">
                   Planet Labs PBC — Customer Success Manager
                 </span>
-                Drove adoption across over twenty strategic enterprise accounts in forestry, agriculture, and
-                finance through onboarding, training, workflow optimization, consistent go to market
-                positioning, and consultative guidance. Captured feedback to shape product and expanded usage
-                with sales.
+                Drove adoption across 20+ strategic enterprise accounts (forestry, agriculture, finance)
+                via onboarding, training, workflow optimization, consistent GTM positioning, and consultative
+                guidance; captured feedback to shape product; expanded usage with sales.
               </li>
               <li>
                 <span className="font-medium block mb-1">
                   World Bank Group (IFC) — GIS Consultant
                 </span>
-                Produced executive ready spatial insights and forecasting for offshore energy in Latin
-                America and the Caribbean. Supported financial risk assessments with geospatial indicators
-                and custom visualizations.
+                Produced executive-ready spatial insights &amp; forecasting for offshore energy in LAC;
+                supported financial risk assessments with geospatial indicators and custom visualizations.
               </li>
               <li>
                 <span className="font-medium block mb-1">
                   NASA DEVELOP — Team Lead (Mato Grosso Agriculture)
                 </span>
-                Led a remote sensing team using Random Forest in Google Earth Engine to classify crop
-                types. Delivered dashboards and briefs for NASA, NOAA, and USDA stakeholders.
+                Led a remote-sensing team using Random Forest in Google Earth Engine to classify crop
+                types; delivered dashboards and briefs for NASA/NOAA/USDA stakeholders.
               </li>
             </ul>
             <div className="mt-6 flex flex-wrap gap-2 text-sm">
@@ -159,10 +155,10 @@ export default function Site() {
                 "Cartography",
                 "QGIS",
                 "Python",
-                "Terrain and Hydrology",
+                "Terrain/Hydrology",
                 "Dashboards",
                 "Customer Success",
-                "Stakeholder Communication",
+                "Stakeholder Comms",
               ].map((s) => (
                 <span key={s} className="rounded-full bg-neutral-100 px-3 py-1 text-neutral-700">
                   {s}
@@ -214,7 +210,6 @@ export default function Site() {
         </div>
       </Section>
 
-      {/* Footer */}
       <footer className="border-t border-neutral-200/70 py-10 text-center text-sm text-neutral-600">
         <div className="mx-auto max-w-3xl px-5">© {new Date().getFullYear()} Max Rock</div>
       </footer>
@@ -243,36 +238,27 @@ function TopHeader({ go }) {
   );
 }
 
-/* =======================
-   Helpers
-   ======================= */
 function SatelliteHero() {
   return (
     <section id="top" className="relative">
       <div className="relative left-1/2 right-1/2 -mx-[50vw] w-screen">
         <div className="relative aspect-[21/9] w-full md:aspect-[16/7]">
-          <img
-            src="/gmny.jpg"
-            alt="Rheinwiesen von Geisenheim"
-            className="absolute inset-0 h-full w-full object-cover"
-          />
+          <img src="/gmny.jpg" alt="Rheinwiesen von Geisenheim" className="absolute inset-0 h-full w-full object-cover" />
           <div className="absolute inset-0 bg-black/55" />
           <div className="absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-black/50 via-black/20 to-transparent" />
         </div>
 
-        {/* centered title/subtitle */}
         <div className="pointer-events-none absolute inset-0 grid place-items-center px-6 text-center">
           <div className="mx-auto max-w-4xl">
             <h1 className="font-serif text-4xl font-semibold tracking-tight text-white drop-shadow md:text-6xl">
               Max Rock
             </h1>
             <p className="mt-4 text-xl text-white/90 md:text-2xl">
-              Spatial and temporal snapshots for conservation and adventure.
+              Aspiring to tell a story of stories.
             </p>
           </div>
         </div>
 
-        {/* bottom-right location + coordinates */}
         <div className="absolute bottom-4 right-6 rounded-md bg-black/40 px-2 py-1 text-right text-xs text-white/80 tracking-wide">
           <div className="font-medium">Rheinwiesen von Geisenheim</div>
           <div>49.9795°N, 7.9625°E</div>
@@ -282,6 +268,9 @@ function SatelliteHero() {
   );
 }
 
+/* =======================
+   Helper Components
+   ======================= */
 function Section({ id, title, children }) {
   return (
     <section id={id} className="scroll-mt-24 mx-auto max-w-3xl px-5 py-16 md:py-24">
@@ -311,4 +300,61 @@ function ProjectCard({ project: p }) {
       aria-label={p.title}
     >
       <div
-        className=
+        className={
+          p.id === "sbc"
+            ? "relative aspect-[4/3] w-full overflow-hidden bg-white flex items-center justify-center"
+            : "relative aspect-[4/3] w-full overflow-hidden bg-neutral-100"
+        }
+      >
+        {p.cover ? (
+          <img
+            src={p.cover}
+            alt={p.title}
+            loading="lazy"
+            className={
+              p.id === "sbc"
+                ? "h-full w-full object-contain p-6"
+                : "h-full w-full object-cover transition duration-300 group-hover:scale-105"
+            }
+          />
+        ) : (
+          <div className="h-full w-full bg-gradient-to-br from-neutral-200 to-neutral-100" />
+        )}
+
+        {p.logo && (
+          <img
+            src={p.logo}
+            alt={`${p.title} logo`}
+            className="absolute left-3 top-3 h-8 w-auto rounded-md bg-white/90 p-1 shadow ring-1 ring-black/5 backdrop-blur"
+          />
+        )}
+      </div>
+
+      <div className="space-y-2 p-4 min-h-[260px] flex flex-col justify-between">
+        <div>
+          <h3 className="font-serif text-lg font-semibold leading-tight">{p.title}</h3>
+          {p.blurb && <p className="text-sm text-neutral-600 mt-1">{p.blurb}</p>}
+        </div>
+
+        <div>
+          <div className="flex flex-wrap items-center gap-2 pt-2 text-xs">
+            {p.client && (
+              <span className="rounded-full bg-neutral-100 px-2 py-0.5 text-neutral-700">
+                {p.client}
+              </span>
+            )}
+            {p.year && <span className="text-neutral-500">{p.year}</span>}
+          </div>
+
+          <div className="flex flex-wrap gap-1 pt-2">
+            {p.tags?.map((t) => (
+              <span key={t} className="rounded-full bg-neutral-100 px-2 py-0.5 text-xs text-neutral-700">
+                {t}
+              </span>
+            ))}
+          </div>
+        </div>
+      </div>
+    </Link>
+  );
+}
