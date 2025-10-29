@@ -68,30 +68,31 @@ export default function Site() {
             <h2 className="font-serif text-2xl font-bold md:text-3xl">About</h2>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              I am a geographer by trade with a love for exploring landscapes by foot, bike, and boat.
-              Sailing has taught me to pay close attention to the patterns of wind, water, and navigation;
-              long journeys on a bike have shown me the challenge and reward of moving through terrain at a
-              human pace. Alongside these adventures I have always been drawn to photos and the way they
-              reveal what a place or thing looks like at a specific moment in time. Photos provide the
-              temporal perspective; maps provide the spatial perspective. Together they complement each other and
-              tell a fuller story about people, places, and things.
+              Early on, I was always intrigued by the way we see things. My dad had an old Canon A1 he picked up
+              in Hong Kong and an album in the basement that I must have flipped through a hundred times. That
+              is really where it started. While most of my peers were caught up in the noise of sports, I found
+              myself taking photos, creating, trying to make something that meant something.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              Maps do more than guide us from one place to another. They tell the story of a place, revealing
-              its character and meaning in ways that spark both imagination and action. Much like a camera
-              captures a fleeting moment, satellites record snapshots of the Earth at a point in time. Maps
-              add the vital spatial context, and together with satellite imagery they create a richer and more
-              complete perspective.
+              I have always followed this instinct to earn my keep through a creative eye, solving problems and
+              telling stories visually — making sense of things through mediums that take in complex information
+              and turn it into something digestible, something that paints a picture.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
-              This pairing offers insights that go far beyond navigation or recreation. Over time, I have come
-              to see their power to illuminate issues that matter, providing knowledge we can act upon to drive
-              meaningful change. That is why I want to bring the combined power of mapping and remote sensing to
-              the world across recreation, storytelling, science, conservation, and more, because they hold the
-              ability to inform smarter choices and shape a better future for generations to come.
+              Maps have taken that to another level. They let me tell a story not just through the lens of a
+              camera, but in space and time, putting those fleeting moments in context. And somewhere in all of
+              this, remote sensing emerged — a sort of poetic irony. A camera looking back at the Earth, blending
+              science and art, showing not just what we see, but what we could never see otherwise.
             </p>
+
+            <p className="mt-6 text-[18px] leading-8 text-neutral-800">
+              I have been making maps and taking photos for too long as separate things. That is what I want to
+              do here — bring them together. I do not have a set plan for this, but I imagine it will evolve as
+              time goes on — the story behind my story of telling stories, right here.
+            </p>
+
           </div>
         </div>
       </section>
