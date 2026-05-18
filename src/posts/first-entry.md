@@ -1,7 +1,17 @@
 ---
-title: First Entry
+title: Enjoyment: the battle with performance based content
 date: 2025-05-17
 summary: Where this log begins and why.
 ---
 
-This is where it starts. A place to put things down — field notes, project updates, half-formed thoughts. No particular format, no particular schedule. Just a record of the work and what's behind it.
+This portfolio, website, collection - whatever we are calling it, is largely a response to something a bit deeper than material centralization. I was watching a short YouTube documentary today about running; it was about running differently. Tommy, the individual who put the film together with a few others, was talking about how running was the thing that grounded him emotionally during a very difficult period in his life - working a lot, had no money, spent his days inside a building of brutalist architecture in the middle of London. He looked forward to the time of day where he would go run outside. That was the point - a break in the day to go spend time with himself and experience the joy of running. 
+
+Running is just an example to a much larger concept at play here, but I am going to run with it because it paints a solid picture. In the past 5 years or so (post pandemic), there has been this uptick in people running. The industry is booming and people are eating up the influential things they are seeing on social media, youtube, etc - including myself! Two summers ago, I was running a lot. I did my first trail race, followed by a half. I was consistent and really enjoying how it was impacting my psyche and overall well being - I failed at taking the time to stretch, which was problematic, but that is another story. Long story short, I pretty much dead stopped in October 2024. I was becoming overwhelmed, not with the miles or the act of running, but the influencing, marketing, hype, stats, strava. During this time, I was following Tommy closely - he religously stood/stands by the whole 'comparison is the thief of joy' situation. Looking back, I remember asking myself if I am comparing myself to others - defensively, of course, my answer is no. 
+
+I think there is a sweet spot between being overwhlemed and motivated by content. For me, for running, I genuinely think I was anxious about running because of amount of content that was being fed to me. I went for a run the other day for the first time in a while with my partner and I enjoyed it. There was no hype, expectations, pace - nothin. Just running because the trails dried up and we were ready for an adventure. 
+
+---------------
+
+Theres a lot of this going on. Across numerous sports, hobbies, lifestyles, and industries. Content is being created around peoples genuine interests; it is at our fingertips instantaneously through various platforms. This isn't necessarily bad natively, but like everything, moderation is key and my god, humans are so bad at the moderation thing. I have been working very diligently these past few months to allow myself to truly enjoy the things I am doing. I am not finding the need to validate my stats with the rest of the world - instead I am opting to do the things I enjoy doing differently than most these days - alone & because I tust my judgement in doing good. For my body, for others, for the world! 
+
+The story of running that Tommy put together in that documentary was quite inspirational, not because of his performance in the races, but because he has taken a wholistic approach to running that is quietly combating the normalization of performance based content. Content that makes you question your discipline, your numbers. He looks and it differently, through the lens of his body, what his body wants - not just physically, but mentally. I am going to sit with that quiet message and happily keep my self at ease by checking in on my hobbies, interests, and career more often. 
