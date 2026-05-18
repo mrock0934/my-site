@@ -1,7 +1,7 @@
 const posts = [
   {
   slug: "enjoyment-performance-content",
-  title: "Enjoyment: the battle with performance based content",
+  title: "Enjoying Things *Differently*",
   date: "2025-05-17",
   summary: "On running, content, and letting yourself just enjoy things.",
   category: "Reflections",
