@@ -37,4 +37,8 @@ export default function LogPost() {
       </main>
 
       <footer className="border-t border-neutral-200/70 py-10 text-center text-sm text-neutral-600">
-        <div className="mx
+        <div className="mx-auto max-w-3xl px-5">© {new Date().getFullYear()} Max Rock</div>
+      </footer>
+    </div>
+  );
+}
