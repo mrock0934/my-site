@@ -1,11 +1,11 @@
 const posts = [
   {
-    slug: "first-entry",
-    title: "First Entry",
-    date: "2025-05-17",
-    summary: "Where this log begins and why.",
-    category: "Reflections",
-  },
+  slug: "enjoyment-performance-content",
+  title: "Enjoyment: the battle with performance based content",
+  date: "2025-05-17",
+  summary: "On running, content, and letting yourself just enjoy things.",
+  category: "Reflections",
+}
 ];
 
 export default posts;
