@@ -230,6 +230,7 @@ function TopHeader({ go }) {
           <button onClick={() => go("projects")} className="transition hover:text-neutral-200">Work</button>
           <button onClick={() => go("resume")} className="transition hover:text-neutral-200">Resume</button>
           <button onClick={() => go("contact")} className="transition hover:text-neutral-200">Contact</button>
+          <Link to="/log" className="text-sm text-white transition hover:text-neutral-200">My Log</Link>
         </nav>
         <a href="https://www.linkedin.com/in/max-rock-2554b8153" target="_blank" rel="noreferrer" className="transition hover:opacity-80" aria-label="LinkedIn">
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" className="h-6 w-6 text-white"><path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM.5 8.5h4V24h-4V8.5zM8.5 8.5h3.8v2.1h.1c.5-.9 1.7-2.1 3.7-2.1 3.9 0 4.6 2.6 4.6 6v9.5h-4v-8.4c0-2-.04-4.6-2.8-4.6-2.8 0-3.2 2.2-3.2 4.5V24h-4V8.5z" /></svg>
@@ -255,7 +256,7 @@ function SatelliteHero() {
               Max Rock
             </h1>
             <p className="mt-4 text-xl text-white/90 md:text-2xl">
-              Aspiring to tell a story of stories.
+              Exploring new ways to tell stories for the greater good
             </p>
           </div>
         </div>

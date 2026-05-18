@@ -6,6 +6,8 @@ import MKEBeaverProject from "./pages/MKEBeaverProject.jsx";
 import SuperiorBioConservancy from "./pages/SuperiorBioConservancy";
 import Gallery from "./pages/Gallery.jsx";
 import GalleryDestination from "./pages/GalleryDestination";
+import Log from "./pages/Log";
+import LogPost from "./pages/LogPost";
 
 
 function NotFound() {
@@ -31,6 +33,8 @@ export default function App() {
         <Route path="/projects/mke-beaver-project" element={<MKEBeaverProject />} />
         <Route path="/projects/superior-bio-conservancy" element={<SuperiorBioConservancy />} />
         <Route path="*" element={<NotFound />} />
+        <Route path="/log" element={<Log />} />
+        <Route path="/log/:slug" element={<LogPost />} />
       </Routes>
     </>
   );
