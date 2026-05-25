@@ -76,15 +76,15 @@ export default function Site() {
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
               I have always followed this instinct to earn my keep through a creative eye, solving problems
-              and telling stories visually. Making sense of things through mediums that take in complex
+              and telling stories. Making sense of things through mediums that take in complex
               information and turn it into something digestible, something that paints a picture.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
               Maps have taken that to another level. They let me tell a story not just through the lens of a
-              camera, but in space and time, putting those fleeting moments in context. And somewhere in all
-              of this, remote sensing emerged, a sort of poetic irony. A camera looking back at the Earth,
-              blending science and art, showing not just what we see, but what we could never see otherwise.
+              camera, but in space and time. And somewhere in all
+              of this, remote sensing emerged, ironically in a way. A camera looking back at the Earth,
+              adding a rich geospatial context, showing not just what we see, but what we could never see otherwise.
             </p>
 
             <p className="mt-6 text-[18px] leading-8 text-neutral-800">
@@ -114,15 +114,14 @@ export default function Site() {
           <div className="text-[18px] leading-8 text-neutral-800">
             <h3 className="text-xl font-semibold">Executive Summary</h3>
             <p className="mt-3">
-              Geographer and geospatial specialist focused on hyperspectral remote sensing,
-              cartography, and customer success for conservation and energy.
+              Senior sales engineer helping energy and utility enterprises operationalize AI-powered satellite monitoring for pipeline integrity and vegetation management.
             </p>
             <ul className="mt-4 space-y-4 list-disc pl-5">
               <li>
                 <span className="font-medium block mb-1">
-                  Orbital Sidekick — Lead Account Manager
+                  Orbital Sidekick — Director of Account Management
                 </span>
-                Driving adoption and retention across my current accounts and managing a multimillion-dollar
+                Drove adoption and retention across my accounts and managing a multimillion-dollar
                 book of business spanning three distinct verticals. Lead Oil &amp; Gas presales from
                 feasibility to close as the technical POC; own post-sales for all commercial accounts;
                 created CS ops framework; partner closely with product &amp; marketing.
@@ -264,7 +263,7 @@ function SatelliteHero() {
         <div className="absolute bottom-4 right-6 rounded-md bg-black/40 px-2 py-1 text-right text-xs text-white/80 tracking-wide">
           <div className="font-medium">Rheinwiesen von Geisenheim</div>
           <div>49.9795°N, 7.9625°E</div>
-        </div>
+        </div>ls src/pages/
       </div>
     </section>
   );
