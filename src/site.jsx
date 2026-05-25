@@ -263,7 +263,7 @@ function SatelliteHero() {
         <div className="absolute bottom-4 right-6 rounded-md bg-black/40 px-2 py-1 text-right text-xs text-white/80 tracking-wide">
           <div className="font-medium">Rheinwiesen von Geisenheim</div>
           <div>49.9795°N, 7.9625°E</div>
-        </div>ls src/pages/
+        </div>
       </div>
     </section>
   );
