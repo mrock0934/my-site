@@ -8,7 +8,7 @@ const posts = [
 },
   {
   slug: "beavercon-watershed-health",
-  title: "BeaverCon and the New Standard for Watershed Health",
+  title: "BeaverCon 2026 | Watershed Health & A New Standard for Continental Conservation",
   date: "2026-10-01",
   summary: "Notes from BeaverCon 2026 on building a satellite-backed health record for every watershed, starting in Wisconsin.",
   category: "Reflections",
