@@ -4,7 +4,7 @@ date: 2026-10-01
 summary: Notes from BeaverCon 2026 on building a satellite-backed health record for every watershed, starting in Wisconsin.
 ---
 
-It was a pleasure to make my way to Minneapolis for BeaverCon 2026. It's remarkable to see how much has changed since the first one in 2020, with great energy and people from all over the world. Remote sensing ran through many of the sessions, with aerial, drone, and satellite work all being used to monitor the ways beavers reshape a landscape.
+It was a pleasure to make my way to Minneapolis for BeaverCon 2026. It's remarkable to see how much has changed since the first one in 2020, with great energy and people from different pockets of land across a couple continents. Remote sensing ran through many of the sessions, with aerial, drone, and satellite work all being used to monitor the ways beavers reshape a landscape.
 
 ![Attendees seated at round tables under the angled wood-and-glass ceiling of the main hall, with the Beaver Institute logo on the screen](/log/beavercon-2026-4891.jpg)
 
