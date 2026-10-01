@@ -55,7 +55,7 @@ export default function Log() {
                   <div className="flex items-center gap-3">
                     <time className="text-xs uppercase tracking-widest text-neutral-400">
                       {new Date(post.date).toLocaleDateString("en-US", {
-                        year: "numeric", month: "long", day: "numeric",
+                        year: "numeric", month: "long", day: "numeric", timeZone: "UTC",
                       })}
                     </time>
                     {post.category && (

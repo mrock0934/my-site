@@ -26,7 +26,7 @@ export default function LogPost() {
       <main className="mx-auto max-w-2xl px-5 pt-32 pb-24">
         <time className="text-xs uppercase tracking-widest text-neutral-400">
           {new Date(meta.date).toLocaleDateString("en-US", {
-            year: "numeric", month: "long", day: "numeric",
+            year: "numeric", month: "long", day: "numeric", timeZone: "UTC",
           })}
         </time>
         <h1 className="mt-2 font-serif text-3xl font-bold md:text-4xl">{meta.title}</h1>
